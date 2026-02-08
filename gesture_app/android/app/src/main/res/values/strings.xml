@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gesture App</string>
+    <string name="widget_description">Quick access to draw gestures or enter codes</string>
+    <string name="accessibility_service_description">Allows Gesture App to detect gestures over other apps.</string>
+</resources>

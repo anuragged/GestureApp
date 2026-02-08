@@ -1,0 +1,31 @@
+# Heavy folders and temp files
+backend-temp/
+flutter/
+backend-admin-backup/
+deployment/
+.DS_Store
+
+# Archives
+*.zip
+*.tar
+*.gz
+
+# Database
+*.sql
+
+# Laravel specific (root level if applicable)
+vendor/
+.env
+
+# Flutter specific (root level if applicable)
+.dart_tool/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+
+# IDE
+.vscode/
+.idea/
+*.iml
