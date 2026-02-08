@@ -1,7 +1,8 @@
 # Heavy folders and temp files
 backend-temp/
 flutter/
-backend-admin-backup/
+gesture-admin-backup/
+gesture-admin/
 deployment/
 .DS_Store
 
